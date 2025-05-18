@@ -1,0 +1,9 @@
+{
+  "domain": "netzentgelt",
+  "name": "Netzentgelt",
+  "version": "1.0.0",
+  "documentation": "https://github.com/notfalls/home-assistant-netzentgelt",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@notfalls"]
+}
